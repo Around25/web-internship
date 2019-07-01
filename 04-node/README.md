@@ -12,3 +12,8 @@ http://docs.sequelizejs.com/
 ### JWT
 https://jwt.io/introduction/
 
+### Testing
+https://mochajs.org/#installation
+
+https://www.chaijs.com/
+
