@@ -1,7 +1,14 @@
 # NodeJS
 
-## Tutorials
+## Resources
+### Express
+https://expressjs.com/en/starter/installing.html
 
-## Advanced
+https://expressjs.com/en/guide/routing.html
 
-## Exercises
+### Sequelize
+http://docs.sequelizejs.com/
+
+### JWT
+https://jwt.io/introduction/
+
