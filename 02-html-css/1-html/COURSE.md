@@ -8,6 +8,10 @@ Opening AND closing = `<tag></tag>`
 
 Resource: https://developer.mozilla.org/en-US/docs/Web/HTML
 
+### Set up working pipeline
+
+- local static html file
+
 ### Basic structure of an HTML document
 
 ```html
