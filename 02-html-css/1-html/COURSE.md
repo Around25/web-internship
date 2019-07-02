@@ -94,3 +94,30 @@ Just talk a bit about it
 
 - about semantic tags
 - about canvas
+
+### Exercises
+
+- day 1 - show them the tags
+- main - create a little list of pages
+- tribute-page - an extended exercise in HTML
+- survey - create a survey to understand how form works
+
+tribute page, use these tags:
+
+- p
+- h1 - h..
+- description list
+- figure and figcaption
+- blockquote and cite
+- footer
+- header
+
+survey, use these tags:
+
+- form
+- 5 input types
+
+Limitations on both projects
+
+- no span
+- no div
