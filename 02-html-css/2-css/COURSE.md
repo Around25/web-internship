@@ -64,23 +64,31 @@ Best documentation https://css-tricks.com/almanac/
 - em
 - rem
 
-### Display
-
-- table (just mention)
-- flex
-- grid (just mention)
-
 ### Position
 
 - relative
 - absolute
 - fixed
 
+### Display
+
+- table (just mention)
+- flex
+- grid (just mention)
+
+### Transform
+
 ---
 
 ### Exercise
 
-- create the same button using 3 different tags (button, div, a, input.type=button)
+- create the same button using 3 different tags
+  - steps:
+    - pick 3 different tags
+    - strip them of any kind of styling (for example, `<button>`s have some default styling to them)
+    - choose a styling that you like for a button
+    - make those 3 tags look identical (like a button)
+- center a child inside a parent using 3 different methods
 
 ---
 
@@ -135,7 +143,7 @@ Compound selector:
 
 ### Animations
 
-### Media-queries
+### Media-queries and responsive design
 
 ### SASS teaser
 
