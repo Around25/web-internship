@@ -7,19 +7,30 @@
       content="width=1280, height=1024, initial-scale=1.0"
     />
     <title>Day 2 CSS</title>
+    <!-- <link href="main.css" rel="stylesheet"> -->
   </head>
+
   <body>
+    <style>
+      p {
+        color: red;
+      }
+
+      #first-paragraph {
+        color: green;
+      }
+    </style>
+
     <h1 style="color: darkturquoise;">Good title</h1>
 
     <h3 style="background-color: azure;">Decent subtitle</h3>
 
     <img
-      style="width: 400px"
       src="https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
       width="300"
     />
 
-    <p>
+    <p id="first-paragraph">
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat error
       maxime nam vero? Labore quo libero id ipsum quae repellendus earum
       excepturi, error fugiat minima. Dolor blanditiis quidem quos earum?
@@ -30,5 +41,8 @@
       maxime nam vero? Labore quo libero id ipsum quae repellendus earum
       excepturi, error fugiat minima. Dolor blanditiis quidem quos earum?
     </p>
+
+    <label for=""> enter password </label>
+    <input type="password" />
   </body>
 </html>
