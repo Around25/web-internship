@@ -30,6 +30,9 @@ Best documentation https://css-tricks.com/almanac/
 
 ### Developer tools
 
+- Dev console of any browser
+- e.g. Chrome CMD + OPTION + J
+
 ### Visual presence (width and height)
 
 ### "The box model"
@@ -40,11 +43,13 @@ Best documentation https://css-tricks.com/almanac/
 
 ### Clockwise notation
 
+- top, right, bottom, left
+
 ---
 
 ### Exercises
 
-- recreate a poster
+- recreate a simple poster
 
 ---
 
@@ -71,8 +76,6 @@ Best documentation https://css-tricks.com/almanac/
 - absolute
 - fixed
 
-### Pseudo-selectors
-
 ---
 
 ### Exercise
@@ -80,6 +83,20 @@ Best documentation https://css-tricks.com/almanac/
 - create the same button using 3 different tags (button, div, a, input.type=button)
 
 ---
+
+### z-index
+
+### background clipping
+
+---
+
+### Advanced exercise
+
+- re-create a geometric poster
+
+---
+
+### Pseudo-selectors
 
 ---
 
