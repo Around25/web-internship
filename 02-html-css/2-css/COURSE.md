@@ -112,13 +112,13 @@ Best documentation https://css-tricks.com/almanac/
 
 Choose a random number between 1 and 7
 
-1. twitter
-2. pinterest
-3. reddit
-4. instagram
-5. linkedin
-6. facebook
-7. behance
+1. twitter - Cristi
+2. pinterest - Alexandra
+3. reddit - Dragos Cornean
+4. instagram - Ioana
+5. linkedin - Nicu
+6. facebook - Dragos Bilaniuc
+7. behance - Vlad
 
 ---
 
