@@ -201,6 +201,24 @@ Add responsiveness to your mini-project
 
 ```
 Recreate Piktology project
+
+Notes:
+- the project should be responsive
+- the interns don't have to recreate the select language dropdown
+- colored logo => completely white logo using just CSS (footer)
+- simple image => image with a color overlay using just CSS (last section of the project)
+- don't use offset columns (from Bootstrap)
+- they can use empty columns for layout
+- there should be only ONE single div with the class container
+- the interns have to implement the carousel component from Bootstrap
+- we don't have special assets for the carousel, they can use any images
+- a carousel slide if comprised of image + title + description
+- add an "on hover" effect for each slide of the carousel (play button)
+- be careful on how to solve the responseviness of the footer
+
+BONUS POINTS:
+- add an "on hover" effect on each card in the section "Three distinct papers"
+- add an "on hover" effect on each image in the gallery section ("Make it memorable")
 ```
 
 ---
@@ -216,3 +234,11 @@ Recreate Piktology project
 - variables
 - mixins
 - imports
+
+### _PROJECT (?)_
+
+```
+don't know what to give them for the SASS stuff
+```
+
+---
