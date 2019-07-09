@@ -245,6 +245,8 @@ Mockup and assets: https://drive.google.com/open?id=1FgHxlvnLnbDDMAwbI19rAzjaXef
 - node-sass
 - browser-sync
 
+A template for this project can be forked from: gitlab.com:around25/internal/internship/general/getting-started-with-sass
+
 ### _PROJECT_
 
 ```
