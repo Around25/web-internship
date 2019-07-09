@@ -232,22 +232,25 @@ Mockup and assets: https://drive.google.com/open?id=1FgHxlvnLnbDDMAwbI19rAzjaXef
 
 ---
 
-### SASS teaser
+### SASS
 
-- nestable rule sets
-
-### Project setup with nodemon and SASS
-
-### SASS features
-
+- nestable rulesets
 - variables
 - mixins
-- imports
+- imports (and/or partials)
 
-### _PROJECT (?)_
+### Project setup
+
+- nodemon
+- node-sass
+- browser-sync
+
+### _PROJECT_
 
 ```
-don't know what to give them for the SASS stuff
+### Chat client design
 ```
+
+Mockup: https://drive.google.com/open?id=1y76sf-o7GXC2AxeVIb_iLa5kBrxT2NLM
 
 ---
