@@ -50,8 +50,10 @@ Best documentation https://css-tricks.com/almanac/
 ### _TASK_
 
 ```
-- recreate a simple poster
+- recreate a simple poster or a typography poster
 ```
+
+Templates: https://drive.google.com/open?id=116h_8lshiox1nKFmXQcDJ5wLypsYYVgZ
 
 ---
 
@@ -124,6 +126,8 @@ Like: `:hover`, `:not()` etc.
 
 ### _PROJECT_
 
+NOTE: Give the interns the mockups found in the Google Drive folder. They were carefully selected to be relatively similar in terms of difficulty.
+
 ```
 ### Social medial mini-project
 
@@ -137,8 +141,11 @@ Choose a random number between 1 and 7
 6. facebook - Dragos Bilaniuc
 7. behance - Vlad
 
-Recreate the design using pure CSS, and especially flexbox
+Recreate the design of a post from the social media platform that was assigned to you.
+Use only pure CSS and, especially, flexbox.
 ```
+
+Mockups: https://drive.google.com/open?id=1Q4nTk_emyoLUOsdg5fXrG-fFhUANj0wu
 
 ---
 
@@ -200,7 +207,7 @@ Add responsiveness to your mini-project
 ### _PROJECT_
 
 ```
-Recreate Piktology project
+### Recreate Piktology
 
 Notes:
 - the project should be responsive
@@ -220,6 +227,8 @@ BONUS POINTS:
 - add an "on hover" effect on each card in the section "Three distinct papers"
 - add an "on hover" effect on each image in the gallery section ("Make it memorable")
 ```
+
+Mockup and assets: https://drive.google.com/open?id=1FgHxlvnLnbDDMAwbI19rAzjaXefRyI8d
 
 ---
 
