@@ -47,9 +47,11 @@ Best documentation https://css-tricks.com/almanac/
 
 ---
 
-### Exercises
+### _TASK_
 
+```
 - recreate a simple poster
+```
 
 ---
 
@@ -78,9 +80,14 @@ Best documentation https://css-tricks.com/almanac/
 
 ### Transform
 
+`transform: scale() skew() translate() etc.`
+
 ---
 
-### Exercise
+### _TASK_
+
+```
+### Button three-ways and centering three-ways
 
 - create the same button using 3 different tags
   - steps:
@@ -89,26 +96,36 @@ Best documentation https://css-tricks.com/almanac/
     - choose a styling that you like for a button
     - make those 3 tags look identical (like a button)
 - center a child inside a parent using 3 different methods
+```
 
 ---
 
 ### z-index
 
-### background clipping
+### (skipped) background clipping
 
 ---
 
-### Advanced exercise
+### _TASK_
+
+```
+(skipped) Advanced TASK
 
 - re-create a geometric poster
+```
 
 ---
 
 ### Pseudo-selectors
 
+Like: `:hover`, `:not()` etc.
+
 ---
 
-### Mini-project
+### _PROJECT_
+
+```
+### Social medial mini-project
 
 Choose a random number between 1 and 7
 
@@ -119,6 +136,9 @@ Choose a random number between 1 and 7
 5. linkedin - Nicu
 6. facebook - Dragos Bilaniuc
 7. behance - Vlad
+
+Recreate the design using pure CSS, and especially flexbox
+```
 
 ---
 
@@ -133,6 +153,20 @@ Compound selector:
 - ","
 - "~"
 
+---
+
+### _TASK_
+
+```md
+Context menu ("burger" menu)
+
+Add a context menu to your social media mini-project using ONLY css.
+
+Hint: use <label>, a hidden <input type="checkbox"> and a div with position: absolute
+```
+
+---
+
 ### Multi-rules
 
 - background
@@ -145,6 +179,32 @@ Compound selector:
 
 ### Media-queries and responsive design
 
+---
+
+### _TASK_
+
+```
+Add responsiveness to your mini-project
+```
+
+---
+
+### CSS frameworks
+
+- Bootstrap
+- Material Design
+- Tailwind CSS
+
+---
+
+### _PROJECT_
+
+```
+Recreate Piktology project
+```
+
+---
+
 ### SASS teaser
 
 - nestable rule sets
@@ -156,9 +216,3 @@ Compound selector:
 - variables
 - mixins
 - imports
-
-### CSS frameworks
-
-- Bootstrap
-- Material Design
-- Tailwind CSS
