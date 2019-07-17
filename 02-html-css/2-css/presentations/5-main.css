@@ -1,0 +1,134 @@
+body {
+  background-color: rgb(241, 241, 241);
+  display: flex;
+  justify-content: center;
+  font-family: Arial;
+}
+
+.post-container {
+  width: 600px;
+  margin: 50px 0;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  background: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 5px 8px 5px rgba(219, 219, 219, 0.55);
+}
+
+.header {
+  height: 30px;
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: stretch;
+  padding-bottom: 10px;
+}
+
+.other-header-stuff {
+  display: flex;
+  align-items: center;
+  font-weight: 100;
+  padding-left: 10px;
+}
+
+.other-header-stuff h4 {
+  margin: 0;
+}
+
+/* .button-container { */
+.context-menu-container {
+  width: 30px;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.context-menu-container input {
+  display: none;
+}
+
+.button-container {
+  border-radius: 50%;
+  padding: 5px;
+  background-color: transparent;
+  transition: all 0.5s ease-in;
+}
+
+.button-container:hover {
+  background-color: #01f0b470;
+}
+
+.context-menu {
+  height: 30px;
+  width: 30px;
+  display: none;
+  position: absolute;
+  top: 100%;
+  background: red;
+}
+
+input:checked + .context-menu {
+  display: block;
+}
+
+.content {
+  display: flex;
+  align-items: stretch;
+}
+
+.image-container {
+  width: 70%;
+  background-image: url(https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  border-radius: 10px;
+  animation: fade-in-n-out 3s infinite;
+}
+
+@keyframes fade-in-n-out {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.info-container {
+  width: 30%;
+  padding-left: 10px;
+}
+
+.info-container p {
+  margin: 0;
+  text-align: justify;
+  font-size: 14px;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: red;
+  }
+
+  .post-container {
+    width: 500px;
+  }
+
+  .content {
+    flex-direction: column;
+  }
+
+  .image-container {
+    width: auto;
+  }
+
+  .info-container {
+    width: auto;
+  }
+}

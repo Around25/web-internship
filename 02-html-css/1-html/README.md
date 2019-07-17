@@ -121,3 +121,11 @@ Limitations on both projects
 
 - no span
 - no div
+
+At the end of the exercise, check:
+
+- that you have completed a README.md
+- that you have used `<label>`
+- that you have used it properly
+- that you have used `<dl>`
+- that you have used it properly
