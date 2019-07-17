@@ -99,6 +99,16 @@ this.state = {
 - Add a `Reset` button
 - Design is up to you
 
+The `Card` component will have the following structure:
+```json
+{
+    "id": 1,
+    "image": "http://img.test",
+    "show": true
+}
+```
+
+- Use local images or use an open API to generate the image of the cards
 
 
 # Redux
