@@ -2,7 +2,10 @@
 
 ## Resources
 - https://reactjs.org/
+- https://jscomplete.com/learn/why-react
+- https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
 - https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/
+- https://around25.com/blog/an-introduction-to-react-vs-react-native/
 - https://github.com/MoonHighway/learning-react/tree/master/chapter-02
 
 ## Task 1
