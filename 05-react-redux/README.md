@@ -111,6 +111,16 @@ The `Card` component will have the following structure:
 }
 ```
 
+Optional: You can use this game state to get started:
+```js
+this.state = {
+  isFlipped: new Array(16).fill(false), // array with position of the elements. In order to know which element is flipped
+  shuffledCards: [], // array with card objects
+  prevCard: -1, // need to know the previous card to check the match
+  prevCardIndex: -1, // need to know previous card index to check the match
+  clickCount: 1, // we have to count the clicks
+};
+
 - Use local images or use an open API to generate the image of the cards
 
 
