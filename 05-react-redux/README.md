@@ -120,6 +120,7 @@ this.state = {
   prevCardIndex: -1, // need to know previous card index to check the match
   clickCount: 1, // we have to count the clicks
 };
+```
 
 - Use local images or use an open API to generate the image of the cards
 
