@@ -2,6 +2,11 @@
 
 ## Resources
 ### Basic JS course
+
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/
+
+https://javascript.info/
+
 https://app.pluralsight.com/player?course=javascript-programming-basics&author=kyle-simpson&name=javascript-programming-basics-m1&clip=7&mode=live
 
 https://medium.com/recraftrelic/es5-vs-es6-with-example-code-9901fa0136fc
